@@ -1,42 +1,34 @@
 {
   "project_info": {
-    "project_number": "387039193633",
-    "firebase_url": "https://foodtukk-fdb50.firebaseio.com",
-    "project_id": "foodtukk-fdb50",
-    "storage_bucket": "foodtukk-fdb50.appspot.com"
+    "project_number": "176576859566",
+    "firebase_url": "https://zomato-101e9.firebaseio.com",
+    "project_id": "zomato-101e9",
+    "storage_bucket": "zomato-101e9.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:387039193633:android:3fdb8f7c18aabae2bd1160",
+        "mobilesdk_app_id": "1:176576859566:android:65afb0da55737825",
         "android_client_info": {
-          "package_name": "com.example.food_delivery"
+          "package_name": "com.example.zomato"
         }
       },
       "oauth_client": [
         {
-          "client_id": "387039193633-dp0mj51vm8gmhvkcfvn7jbt7bgrllk3q.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.food_delivery",
-            "certificate_hash": "ba7e61c872ad3bf0be3f08922f19be5ebce1c14b"
-          }
-        },
-        {
-          "client_id": "387039193633-9pg9rvdtul1j50qbtftm17oiiqoi663a.apps.googleusercontent.com",
+          "client_id": "176576859566-pov652aqub1fd1k93evgqotjmgh3p2ue.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBqCI3hg1wXCCxI2Kvl_cZYy5MfjdjWuBg"
+          "current_key": "AIzaSyAPwmxs1Y-VA1fG9uaEGyoumw5131shRqA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "387039193633-9pg9rvdtul1j50qbtftm17oiiqoi663a.apps.googleusercontent.com",
+              "client_id": "176576859566-pov652aqub1fd1k93evgqotjmgh3p2ue.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
